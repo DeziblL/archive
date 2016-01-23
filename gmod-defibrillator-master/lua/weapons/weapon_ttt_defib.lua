@@ -14,7 +14,7 @@ SWEP.WorldModel = Model("models/weapons/w_c4.mdl")
 --- TTT Vars
 SWEP.Kind = WEAPON_EQUIP2
 SWEP.AutoSpawnable = false
-SWEP.CanBuy = {ROLE_TRAITOR}
+SWEP.CanBuy = {ROLE_DETECTIVE}
 SWEP.LimitedStock = true
 
 if CLIENT then
